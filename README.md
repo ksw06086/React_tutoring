@@ -13,4 +13,4 @@
 | :------: | :------: | :------ | :------ |
 | 2 | 8월 16일 (수)|  1. State(useState() 사용)</br> 2. Props 사용</br> 3. 본격적 페이지 만들기</br> 3-1. map() 사용</br> 3-2. 라우팅 구현</br> 3-3. 체크박스, 뜻 보기, 삭제 버튼 생성|[[PPT]](https://github.com/ksw06086/React_tutoring/raw/main/PPT/리액트_강의_2주차.pptx)|
 | :------: | :------: | :------ | :------ |
-| 3 | 8월 22일 (화)|  ** css, json-server 설치</br> 1. useEffect, fetch 사용</br> 2. Custom Hook 만들기</br> 3. PUT: 단어 암기 여부 저장</br> 4. DELETE: 단어 삭제</br> 5. POST: 단어/날짜 추가</br> 5-1. useHistory로 경로 이동</br> 5-2. useRef로 추가 내용 전송|[[PPT]](https://github.com/ksw06086/React_tutoring/raw/main/PPT/리액트_강의_3주차.pptx)|[[REVIEW]](https://forms.gle/5TswmaYna6h5hFCMA)
+| 3 | 8월 22일 (화)|  ** css, json-server 설치</br> 1. useEffect, fetch 사용</br> 2. Custom Hook 만들기</br> 3. PUT: 단어 암기 여부 저장</br> 4. DELETE: 단어 삭제</br> 5. POST: 단어/날짜 추가</br> 5-1. useHistory로 경로 이동</br> 5-2. useRef로 추가 내용 전송|[[PPT]](https://github.com/ksw06086/React_tutoring/raw/main/PPT/리액트_강의_3주차.pptx) [[REVIEW]](https://forms.gle/5TswmaYna6h5hFCMA)
