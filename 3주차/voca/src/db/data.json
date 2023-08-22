@@ -40,13 +40,6 @@
       "isDone": false
     },
     {
-      "id": 4,
-      "day": 2,
-      "eng": "pen",
-      "kor": "펜",
-      "isDone": false
-    },
-    {
       "id": 5,
       "day": 3,
       "eng": "school",

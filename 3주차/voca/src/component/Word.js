@@ -40,10 +40,10 @@ export default function Word({ word: w }){
                 }
             })
         }
-
-        if(word.id === 0){
-            return null;
-        }
+    }
+    
+    if(word.id === 0){
+        return null;
     }
 
     return (
